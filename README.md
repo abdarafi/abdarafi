@@ -1,8 +1,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="30"/> Hello Internet!
 <img src="https://media.tenor.com/images/334b854514d6b016025eea26618baa46/tenor.gif"></br>
 My name is **Rafi** aka **corazzon06**, I'm an information security enthusiast and wannabe software developer.
-- 🌟 Open to New Opportunities
-- 👨‍💻 Currently working as a DevOps Engineer
+- 👨‍💻 Currently working as a Software Engineer
 - ⌨️ Vim+tmux is my daily life
 - 🚩 Playing CTF at the weekend
 
